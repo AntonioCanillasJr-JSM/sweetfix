@@ -1,0 +1,1 @@
+[06-May-2019 14:44:53 UTC] PHP Warning:  unlink(/home/sweetfixbakery/public_html/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/451.locked.php): No such file or directory in /home/sweetfixbakery/public_html/wp-content/plugins/wordpress-seo/vendor/yoast/license-manager/class-api-request.php(2) : assert code(1) : eval()'d code(1) : eval()'d code on line 1

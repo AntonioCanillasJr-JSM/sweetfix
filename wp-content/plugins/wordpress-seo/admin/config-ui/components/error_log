@@ -1,0 +1,2 @@
+[16-Aug-2019 15:17:30 UTC] PHP Fatal error:  Interface 'WPSEO_Config_Component' not found in /home/sweetfixbakery/public_html/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-connect-google-search-console.php on line 9
+[16-Aug-2019 15:17:30 UTC] PHP Fatal error:  Interface 'WPSEO_Config_Component' not found in /home/sweetfixbakery/public_html/wp-content/plugins/wordpress-seo/admin/config-ui/components/class-component-mailchimp-signup.php on line 9

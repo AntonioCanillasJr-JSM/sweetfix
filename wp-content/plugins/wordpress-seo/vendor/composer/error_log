@@ -1,0 +1,1 @@
+[19-Apr-2019 02:33:35 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/sweetfixbakery/public_html/wp-content/plugins/wordpress-seo/vendor/composer/ClassLoader.php on line 14

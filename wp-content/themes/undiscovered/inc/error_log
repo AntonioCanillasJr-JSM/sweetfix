@@ -1,0 +1,4 @@
+[07-Dec-2018 14:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/sweetfixbakery/public_html/wp-content/themes/undiscovered/inc/customizer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sweetfixbakery/public_html/wp-content/themes/undiscovered/inc/customizer.php on line 10

